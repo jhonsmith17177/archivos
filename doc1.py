@@ -1,2 +1,2 @@
 print("pan con camote peruano nam nam")
-print("ad adstra")
+print("pan con chorizo")
